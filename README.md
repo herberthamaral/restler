@@ -78,6 +78,10 @@ All of these attempt to turn the response into a JavaScript object.
 * _client_ A http.Client instance if you want to reuse or implement some kind of connection pooling.
 * _followRedirects_ Does what it says on the tin.
 
+Install via npm
+----------------
+
+    npm install http://github.com/herberthamaral/restler/tarball/master
 
 SSL Support
 -----------
