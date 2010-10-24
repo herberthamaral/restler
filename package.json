@@ -1,0 +1,11 @@
+{ "name": "restler"
+, "version": "1.0.0"
+, "description": "An HTTP client library for node.js"
+, "homepage":"http://github.com/danwrong/restler"
+, "directories": { "lib":"./lib" }
+, "main": "./lib/restler"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/mitkok/node-libnotify.git"
+  }
+}
